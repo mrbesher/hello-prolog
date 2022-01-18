@@ -17,7 +17,7 @@ Run as follows:
 $ swipl main.pl
 ```
 To start the program call the predicate `go`. Enter a desired concept after each input prompt then specify relations. Use 'hepsi' keyword to allow all relations.  
-```prolog
+```
 ?- go.
 kavram1: 'word1'.
 kavram2: 'word2'.
@@ -43,4 +43,4 @@ For more examples: [https://commonsensereasoning.org/problem_page.html](https://
 Figures out the company that Hilmi works at based on the location of the last vehicle he used.
 
 ## incrlistvaluesby1.pl  
-Increases list elements by one.
+Increases each list element value by one.
