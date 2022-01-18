@@ -33,9 +33,8 @@ Sums the squares of numbers in a given list
 
 ## kurtlu-hikaye.pl  
 Tries to determine why the wolf will abandon his plan of eating the girl in the following famous story:  
-```
-A small girl is walking through a forest to visit her grandmother, and she passes a bush behind which a Wolf is hiding, planning to pounce out and eat her. Just as she gets close, however, the Wolf hears the singing of the woodcutters as they start work nearby. The Wolf therefore decides to stay hidden and not pounce on the little girl after all. The problem is to explain why the Wolf decides to stay behind the bush.
-```
+> A small girl is walking through a forest to visit her grandmother, and she passes a bush behind which a Wolf is hiding, planning to pounce out and eat her. Just as she gets close, however, the Wolf hears the singing of the woodcutters as they start work nearby. The Wolf therefore decides to stay hidden and not pounce on the little girl after all. The problem is to explain why the Wolf decides to stay behind the bush.  
+
 _Contributed by Pat Hayes, Institute for the Interdisciplinary Study of Human and Machine Cognition, University of West Florida, U.S.A. and Lokendra Shastri, International Computer Science Institute, Berkeley, California, U.S.A. (9th July, 1997)_  
 For more examples: [https://commonsensereasoning.org/problem_page.html](https://commonsensereasoning.org/problem_page.html#wolfandbush)  
 
